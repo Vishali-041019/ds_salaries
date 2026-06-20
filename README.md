@@ -163,4 +163,5 @@ This model can be loaded later for salary prediction without retraining.
 ## Author
 
 Vishali
+
 Machine Learning & Data Science Enthusiast
